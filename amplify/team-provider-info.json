@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognitotest-dev-134148-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533666699657:role/amplify-cognitotest-dev-134148-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533666699657:role/amplify-cognitotest-dev-134148-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-cognitotest-dev-134148-deployment",
+      "UnauthRoleName": "amplify-cognitotest-dev-134148-unauthRole",
+      "StackName": "amplify-cognitotest-dev-134148",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:533666699657:stack/amplify-cognitotest-dev-134148/79068750-f5ff-11ed-ba9f-0a5a4ab5f0af",
+      "AmplifyAppId": "d31zt4agtptwtg"
+    },
+    "categories": {
+      "auth": {
+        "cognitotest9fdd16ca": {},
+        "cognitotest0654f484": {
+          "userPoolId": "ap-northeast-1_AKGPyO49j",
+          "userPoolName": "Kakawari-Live-Test",
+          "webClientId": "7psrlu7v5ppcgmk55ji3hqnl6c",
+          "nativeClientId": "7psrlu7v5ppcgmk55ji3hqnl6c",
+          "identityPoolId": "ap-northeast-1:6e260553-f797-40c6-a12b-a79ee2e72fa5",
+          "identityPoolName": "Kakawari Live Test2",
+          "allowUnauthenticatedIdentities": true,
+          "authRoleArn": "arn:aws:iam::533666699657:role/Cognito_KakawariLiveTest2Auth_Role",
+          "authRoleName": "Cognito_KakawariLiveTest2Auth_Role",
+          "unauthRoleArn": "arn:aws:iam::533666699657:role/Cognito_KakawariLiveTest2Unauth_Role",
+          "unauthRoleName": "Cognito_KakawariLiveTest2Unauth_Role"
+        }
+      }
+    }
+  }
+}

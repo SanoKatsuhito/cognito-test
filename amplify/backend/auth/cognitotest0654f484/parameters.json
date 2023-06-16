@@ -1,0 +1,22 @@
+{
+  "authSelections": "identityPoolAndUserPool",
+  "resourceName": "cognitotest0654f484",
+  "serviceType": "imported",
+  "region": "ap-northeast-1",
+  "aliasAttributes": [
+    "email"
+  ],
+  "requiredAttributes": [
+    "email"
+  ],
+  "passwordPolicyMinLength": 8,
+  "passwordPolicyCharacters": [
+    "Requires Lowercase",
+    "Requires Numbers"
+  ],
+  "mfaConfiguration": "OFF",
+  "autoVerifiedAttributes": [
+    "email"
+  ],
+  "mfaTypes": []
+}

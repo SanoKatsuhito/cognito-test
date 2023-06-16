@@ -1,0 +1,102 @@
+{
+  "api": {},
+  "auth": {
+    "cognitotest0654f484": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_cognitotest0654f484_allowUnauthenticatedIdentities": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_authRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_authRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_identityPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_identityPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_unauthRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_unauthRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cognitotest0654f484_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cognitotest0654f484"
+        }
+      ]
+    }
+  }
+}
